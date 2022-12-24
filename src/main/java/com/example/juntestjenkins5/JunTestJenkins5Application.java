@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JunTestJenkins5Application {
 
     public static void main(String[] args) {
+        System.out.println("어이어이~");
         SpringApplication.run(JunTestJenkins5Application.class, args);
     }
 
